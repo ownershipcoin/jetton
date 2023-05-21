@@ -57,4 +57,3 @@ The OC Project is committed to maintaining a transparent and accountable platfor
 {% hint style="info" %}
 The OC Project's value proposition is anchored in its innovative approach to combining time, world-class collectibles, and advanced technology to create a sustainable and equitable ecosystem. By empowering a diverse range of individuals to participate in the digital asset space, the project sets a new standard for inclusivity, fairness, and access to resources in the world of cryptocurrencies.
 {% endhint %}
-

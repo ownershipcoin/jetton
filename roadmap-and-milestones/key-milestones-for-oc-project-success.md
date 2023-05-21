@@ -4,7 +4,7 @@
 The following key milestones will be instrumental in measuring the success and progress of the OC Project:
 {% endhint %}
 
-1. **Successfully onboarding 1,000 world-class collectible owners (Q2, 2023)**
+1. **Successfully onboarding 2,100 world-class collectible owners (Q2, 2023)**
 
 * [ ] Secure participation from a diverse group of collectible owners, contributing unique assets and value to the project.
 
@@ -16,7 +16,7 @@ The following key milestones will be instrumental in measuring the success and p
 
 * [ ] Engaging and recruiting a substantial number of public miners will be vital for the OC ecosystem, as it will contribute to the mining process and promote widespread adoption of the OC token.
 
-4. **Mining of ALL Main Blocks and Mini-Blocks (Commence Q4, 2023 - On-Going)**
+4. **Mining of ALL Main Blocks (Commence Q4, 2023 - On-Going)**
 
 * [ ] Complete mining of all blocks on the OC blockchain, enabling the full circulation of OC tokens and fostering a vibrant ecosystem.
 
@@ -32,11 +32,10 @@ The following key milestones will be instrumental in measuring the success and p
 
 * [ ] A growing and active community of users and stakeholders will be crucial for the long-term sustainability and success of the OC Project.
 
-8. **Diversification of OC token use cases across various industries and applications**&#x20;
+8. **Diversification of OC token use cases across various industries and applications**
 
 * [ ] Identifying and implementing additional use cases for the OC token will enhance its value, utility, and adoption.
 
 {% hint style="info" %}
 These milestones serve as key indicators of the OC Project's success and progress. Achieving them will not only validate the project's objectives but also demonstrate its potential to create a fair, inclusive, and resourceful cryptocurrency ecosystem.
 {% endhint %}
-

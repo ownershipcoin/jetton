@@ -8,7 +8,7 @@ Encouraging public participation in the OC Project as miners is essential to its
 
 <summary>Stage 5.1 :  Roadshow Planning and Organization</summary>
 
-The project team will start by planning and organizing the staged roadshow, which will include selecting target countries, regions, and cities, as well as developing a detailed schedule and agenda for each event. The roadshow should be designed to engage and educate potential participants about the OC Project, proof of time, and the unique opportunities the platform offers.
+The OC project team will start by planning and organizing the staged roadshow, which will include selecting target countries, regions, and cities, as well as developing a detailed priority schedule and agenda for each event. The roadshow will be designed to engage and educate potential participants about the OC Project, proof of time, and the unique opportunities the platform offers.
 
 </details>
 
@@ -40,7 +40,7 @@ To facilitate public participation in the OC Project, the roadshow will also off
 
 <summary>Stage 5.5 :  Onboarding and Registration</summary>
 
-After participating in the roadshow events, interested attendees will be guided through the onboarding and registration process, which will involve setting up an OC Project account, obtaining a digital wallet, and connecting to the TON (The Open Network) Blockchain. The project team will provide ongoing support and assistance throughout this process to ensure a smooth and seamless transition for new miners.
+The onboarding and registration process will involve the setting up of an OC mining bot (nano-bot), a digital wallet and the connection to the TON (The Open Network) Blockchain. The OC project team will provide ongoing support and assistance throughout this process to ensure a smooth and seamless transition for new miners.
 
 </details>
 
@@ -53,6 +53,5 @@ To measure the success of the staged roadshow and its impact on public participa
 </details>
 
 {% hint style="info" %}
-By actively engaging and empowering a wide range of potential miners through the staged roadshow, the OC Project can build a diverse and active user base that contributes to the platform's success. This approach will help to foster a sense of fairness and equality, as individuals from all walks of life have the opportunity to access valuable resources and preserve their wealth through participation in the OC Project.
+By actively engaging and empowering a wide range of potential miners through the staged roadshow, the OC Project can build a diverse and active user base that contributes to the platform's success. This approach will help to foster a sense of fairness and equality, as individuals from all walks of life have the opportunity to access valuable resources and preserve their time value through participation in the OC Project.
 {% endhint %}
-

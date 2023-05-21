@@ -1,8 +1,4 @@
-# 📩 Smart contract management for voting and decision-making
-
-{% hint style="info" %}
-In Phase 2.0 of the OC Project, the platform will introduce advanced features to further enhance its capabilities, improve user experience, and add utility to the Ownership Coin (OC) tokens. One of the key components of this upgrade is the smart contract management for voting and decision-making. This advanced feature will facilitate a decentralized and transparent governance mechanism for main block owners, empowering them to make collective decisions related to their assets. The following details the smart contract management for voting and decision-making:
-{% endhint %}
+# 📩 Smart Contract Management for Voting and Decision-Making
 
 <details>
 

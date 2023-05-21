@@ -1,7 +1,7 @@
 # 🔬 Stage 2 : Initial Group of Miners - Screening Process
 
 {% hint style="info" %}
-Establishing a fair and efficient ranking system for the 1,000 collectibles is essential to the success of the OC Project. The involvement of an initial group of miners in the ranking process ensures that the platform's unique value proposition is upheld, and that users can confidently engage with the OC token mining process. The following outlines the steps involved in recruiting the initial group of miners and their role in the ranking process:
+Establishing a fair and efficient ranking system for the 2,100 collectibles is essential to the success of the OC Project. The involvement of an initial group of miners in the ranking process ensures that the platform's unique value proposition is upheld, and that users can confidently engage with the OC token mining process. The following outlines the steps involved in recruiting the initial group of miners and their role in the ranking process:
 {% endhint %}
 
 <details>
@@ -24,7 +24,7 @@ Once the initial group of miners has been selected, they will undergo training a
 
 <summary>Stage 2.3 : Presentation of Collectibles</summary>
 
-The 1,000 collectibles integrated into the OC Project platform will be presented to the initial group of miners, who will review and assess each collectible based on its estimated value, provenance, historical significance, cultural importance, and overall quality.
+The 2,100 collectibles integrated into the OC Project platform will be presented to the initial group of miners, who will review and assess each collectible based on its estimated value, provenance, historical significance, cultural importance, and overall quality.
 
 </details>
 
@@ -48,7 +48,7 @@ The ratings assigned by the initial group of miners will be used to calculate a 
 
 <summary>Stage 2.6 : Periodic Release of Main Blocks</summary>
 
-Following the ranking and allocation process, main blocks representing the collectibles will be chained and released periodically. Every week, a new main block will be selected based on the previously determined rankings. The selection process will alternate between higher and lower-ranked collectibles, ensuring a dynamic and engaging mining experience until all 1,000 collectibles have been chosen for mining.
+Following the ranking and allocation process, main blocks representing the collectibles will be chained and released periodically. Upon completion of the mining process of a Main-Block, a new main block will be selected based on the previously determined rankings. The selection process will alternate between higher and lower-ranked collectibles, ensuring a dynamic and engaging mining experience until all 2,100 collectibles have been chosen for mining.
 
 </details>
 
@@ -56,10 +56,7 @@ Following the ranking and allocation process, main blocks representing the colle
 
 <summary>Stage 2.7 : Ongoing Engagement with Miners</summary>
 
-The initial group of miners will continue to play a crucial role in the OC Project ecosystem, providing feedback, insights, and expertise as the platform evolves. Their involvement will contribute to the project's ongoing success and its ability to uphold its core values of fairness and equality.
+The initial group of miners will continue to play a crucial role in the OC Project ecosystem, providing feedback, insights, and experiences sharing as the platform evolves. Their involvement will contribute to the project's ongoing success and its ability to uphold its core values of fairness and equality.
 
 </details>
 
-{% hint style="info" %}
-By engaging an initial group of miners in the ranking process, the OC Project ensures that its platform is built on a solid foundation of fairness, transparency, and inclusivity. The miners' input and expertise are invaluable in determining the value of the world-class collectibles, providing users with confidence in the OC tokens' intrinsic value and utility.
-{% endhint %}

@@ -63,4 +63,3 @@ The OC Project will actively seek input from its community of token holders and 
 {% hint style="info" %}
 Through a combination of smart contract management, decentralized governance, and a commitment to regulatory compliance, the OC Project aims to create a fair, transparent, and sustainable platform that empowers its users and fosters long-term growth.
 {% endhint %}
-

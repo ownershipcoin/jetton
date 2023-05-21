@@ -10,7 +10,7 @@ The OC ecosystem is built on the participation and collaboration of various play
 
 Miners form the backbone of the OC ecosystem, as they are responsible for mining OC tokens by participating in the proof-of-time concept. Their primary responsibilities include:
 
-* Mining OC tokens from the mini-blocks attached to the main blocks
+* Mining OC tokens from the nano-blocks attached to the mini-block contained in main blocks
 * Participating in the ranking process to determine the allocation of OC tokens to main blocks
 * Contributing to the security and stability of the blockchain through their mining efforts
 * Engaging with the community and participating in discussions and decision-making processes
@@ -43,7 +43,7 @@ Investors and stakers contribute to the OC ecosystem by purchasing and holding O
 * Staking OC tokens on main blocks to participate in the ownership of world-class collectibles
 * Participating in the community and engaging in decision-making processes related to the main blocks they have staked
 
-Investors and stakers benefit from the OC ecosystem by potentially earning rewards from staking, appreciating the value of their OC tokens, and participating in the ownership of world-class collectibles.
+Investors and stakers benefit from the OC ecosystem by potentially owing OC as the ultimate store of value and earning rewards from the appreciating of value of their OC tokens, and participating in the ownership of world-class collectibles.
 
 </details>
 
@@ -51,7 +51,7 @@ Investors and stakers benefit from the OC ecosystem by potentially earning rewar
 
 <summary>NGOs and Partner Organizations</summary>
 
-As mentioned in the previous section, NGOs and partner organizations play a vital role in expanding the reach and impact of the OC Project. Their primary responsibilities include:
+The NGOs and partner organizations play a vital role in expanding the reach and impact of the OC Project. Their primary responsibilities include:
 
 * Collaborating with the OC Project to promote financial inclusion and equal opportunities
 * Assisting in the implementation of the OC Project in underprivileged communities

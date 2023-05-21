@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
-coverY: 0
----
-
 # 🏫 Partnerships with NGOs and other organizations
 
 {% hint style="info" %}
@@ -30,7 +24,7 @@ Collaborating with NGOs that focus on assisting underprivileged communities enab
 
 <summary>Shared Values and Objectives</summary>
 
-Partnering with NGOs and other organizations that align with the OC Project's values and objectives ensures that the platform's goals are pursued in a consistent and cohesive manner. By working together, these organizations can support each other in their respective missions, helping to promote financial freedom, equal opportunity, and the adoption of decentralized technologies on a global scale.
+Partnerships with NGOs and other organizations help to foster a stronger and more diverse OC Project community. By encouraging a sense of collaboration and shared purpose, these partnerships contribute to creating an environment where users feel supported, engaged, and committed to the project's success.
 
 </details>
 
@@ -46,11 +40,10 @@ Collaborations between the OC Project and partner organizations can lead to the 
 
 <summary>Building a Stronger Community</summary>
 
-Partnerships with NGOs and other organizations help to foster a stronger and more diverse OC Project community. By encouraging a sense of collaboration and shared purpose, these partnerships contribute to creating an environment where users feel supported, engaged, and committed to the project's success.
+Partnering with NGOs and other organizations that align with the OC Project's values and objectives ensures that the platform's goals are pursued in a consistent and cohesive manner. By working together, these organizations can support each other in their respective missions, helping to promote financial freedom, equal opportunity, and the adoption of decentralized technologies on a global scale.
 
 </details>
 
 {% hint style="info" %}
 Establishing partnerships with NGOs and other organizations is a crucial aspect of the OC Project's mission to create a thriving, inclusive, and impactful ecosystem. By collaborating with like-minded organizations that share similar values and objectives, the OC Project can extend its reach and impact, empowering underprivileged communities and fostering a strong sense of community among its users. These partnerships serve to reinforce the project's commitment to financial inclusion, equal opportunity, and the adoption of decentralized technologies on a global scale.
 {% endhint %}
-

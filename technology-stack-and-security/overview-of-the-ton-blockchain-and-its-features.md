@@ -81,4 +81,3 @@ The TON Blockchain is built with interoperability in mind, allowing it to connec
 {% hint style="info" %}
 TON (The Open Network) blockchain is an advanced, multi-layered, and decentralized platform that offers unparalleled scalability, flexibility, and security. Its unique architecture, coupled with innovative features such as Infinite Sharding Paradigm, Instant Hypercube Routing, and built-in smart contract support, makes it an ideal foundation for building next-generation decentralized applications and services, as well as collectibles & time-backed cryptocurrencies like the OC Project.
 {% endhint %}
-

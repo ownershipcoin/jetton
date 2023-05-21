@@ -56,7 +56,7 @@ The success of the OC Project relies heavily on effective partnerships with NGOs
 
 <summary>Intellectual Property and Legal Issues</summary>
 
-Protecting the intellectual property rights of collectible owners and managing potential legal disputes is another challenge the OC Project may face. Ensuring proper due diligence, legal agreements, and licensing arrangements is crucial to prevent potential disputes and protect the project's interests.
+Protecting the intellectual property rights of collectible owners and managing potential legal disputes would be another challenge the OC Project might face. Proper due diligence and prudent legal / licensing arrangements are crucial to prevent potential disputes and to ensure that the project's interest is in no way jeopardised.
 
 </details>
 
@@ -64,11 +64,10 @@ Protecting the intellectual property rights of collectible owners and managing p
 
 <summary>Competition</summary>
 
-To stay ahead of the competition, the OC Project should continuously invest in innovation, differentiate itself through unique features and value propositions, and monitor competitors' developments. Maintaining a strong brand identity, providing excellent customer service, and demonstrating a commitment to community values can further set the project apart.
+To stay ahead of the competition, the OC Project will continuously invest in innovation, differentiate itself through unique features and value propositions, and monitor competitors' developments. Maintaining a strong brand identity, providing excellent customer service, and demonstrating a commitment to community values can further set the project apart.
 
 </details>
 
 {% hint style="info" %}
 By acknowledging and proactively addressing these risks and challenges, the OC Project can successfully navigate potential hurdles and establish itself as a leading time-backed cryptocurrency platform in the market.
 {% endhint %}
-

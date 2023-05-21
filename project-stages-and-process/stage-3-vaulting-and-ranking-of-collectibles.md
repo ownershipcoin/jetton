@@ -1,14 +1,14 @@
 # 🎖 Stage 3 : Vaulting and Ranking of Collectibles
 
 {% hint style="info" %}
-The proper handling, storage, and categorization of the 1,000 collectibles play a crucial role in the OC Project. Ensuring the safety and security of these valuable assets and organizing them effectively is essential to maintaining the platform's unique value proposition. The following outlines the steps involved in vaulting and categorizing the collectibles:
+The proper handling, storage, and categorization of the 2,100 collectibles play a crucial role in the OC Project. Ensuring the safety and security of these valuable assets and organizing them effectively is essential to maintaining the platform's unique value proposition. The following outlines the steps involved in vaulting and categorizing the collectibles:
 {% endhint %}
 
 <details>
 
 <summary>Stage 3.1 : Submission and Documentation</summary>
 
-As mentioned earlier, collectible owners will submit detailed information about their assets, including provenance, appraisals, and any other relevant documentation to attest to the authenticity and value of the collectibles. This information will serve as the foundation for the categorization process.
+The collectible owners will submit detailed information about their assets, including provenance, appraisals, and any other relevant documentation to attest to the authenticity and value of the collectibles. This information will serve as the foundation for the categorization process.
 
 </details>
 
@@ -16,7 +16,7 @@ As mentioned earlier, collectible owners will submit detailed information about 
 
 <summary>Stage 3.2 : Verification and Authentication</summary>
 
-The project team will carefully review and verify the submitted information for each collectible. This process ensures that only legitimate and valuable collectibles are included in the platform, safeguarding its integrity and reputation.
+Information for each collectible. This process ensures that only legitimate and valuable collectibles are included in the platform, safeguarding its integrity and reputation.
 
 </details>
 
@@ -32,7 +32,7 @@ With the collectible information verified and authenticated, the initial group o
 
 <summary>Stage 3.4 : Ranking and Weighted Scoring</summary>
 
-As previously described, the initial group of miners will assign ratings to each collectible, which will be used to calculate a weighted score. This score will determine the collectible's overall ranking within the platform and influence the allocation of OC tokens to the respective main blocks.
+The initial group of miners will assign ratings to each collectible, which will be used to calculate a weighted score. This score will determine the collectible's overall ranking within the platform and influence the allocation of OC tokens to the respective main blocks.
 
 </details>
 
